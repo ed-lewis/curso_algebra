@@ -5,9 +5,27 @@
 # Ignorar arquivos compilados do Python
 __pycache__/
 *.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
 
 # Ignorar pastas de ambiente virtual (caso crie alguma localmente)
 .env
 .venv
 env/
 venv/
+
+# --- VS Code ---
+.vscode/
+*.code-workspace
+
+# --- Sistema Operacional ---
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# --- Arquivos de Saída (Opcional) ---
+# Se você gerar gráficos pesados ou logs, pode ignorá-los aqui
+*.log
