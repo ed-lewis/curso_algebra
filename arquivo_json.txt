@@ -1,0 +1,22 @@
+{
+    "workbench.startupEditor": "none",
+    "window.zoomLevel": 0,
+    "editor.fontSize": 13,
+    "explorer.compactFolders": false,
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.executorMap": {
+        "python": "clear ; python3 -u",
+    },
+    "code-runner.ignoreSelection": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+    "python.defaultInterpreterPath": "/bin/python3",
+    "terminal.integrated.commandsToSkipShell": [
+        "matlab.interrupt"
+    ],
+    "gitlens.ai.model": "vscode",
+    "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+    "terminal.integrated.tabs.enabled": false,
+    "terminal.integrated.fontSize": 12
+}
