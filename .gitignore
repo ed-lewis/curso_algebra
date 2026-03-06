@@ -29,3 +29,6 @@ Desktop.ini
 # --- Arquivos de Saída (Opcional) ---
 # Se você gerar gráficos pesados ou logs, pode ignorá-los aqui
 *.logtoken.txt
+
+# --- Segurança e Senhas ---
+token.txt
